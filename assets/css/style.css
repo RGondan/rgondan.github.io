@@ -15,8 +15,9 @@ header, footer {
 .nav {
     align-items: center;
     justify-content: left;
-    margin: none;
+    margin: 1rem;
     font-size: 0;
+    height: 2rem;
 }
 
 header button{
